@@ -20,8 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />
+    <ClInclude Include="Helper.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="greatest-common-divisor-of-strings.cpp" />
     <ClCompile Include="Merge Strings Alternately.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

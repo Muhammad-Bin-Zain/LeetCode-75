@@ -18,9 +18,15 @@
     <ClInclude Include="header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Merge Strings Alternately.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="greatest-common-divisor-of-strings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
