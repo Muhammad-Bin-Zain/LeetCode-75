@@ -19,5 +19,23 @@ public:
 		return result;
 	}
 
+	 static int Max(vector<int> arr)
+	 {
+		 if (arr.size()==0)
+		 {
+			 throw runtime_error("Vcctor is empty ");
+		 }
+		 int result = arr[0];
+		 for (int i = 1; i < arr.size(); i++)
+		 {
+			 if (arr[i]>result)
+			 {
+				 result = arr[i];
+			 }
+		 }
+
+		 return result;
+	 }
+
 };
 
