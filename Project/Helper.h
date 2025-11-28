@@ -36,6 +36,11 @@ public:
 
 		 return result;
 	 }
+	 static bool isVowel(char s)
+	 {
+		 char chr = tolower(static_cast<unsigned char>(s));
+		return  chr == 'a' or chr == 'e' or chr == 'i' or chr == 'o' or chr == 'u';
+	 }
 
 };
 
