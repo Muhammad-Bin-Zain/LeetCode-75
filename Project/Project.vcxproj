@@ -27,6 +27,7 @@
     <ClCompile Include="greatest-common-divisor-of-strings.cpp" />
     <ClCompile Include="Kids With the Greatest Number of Candies.cpp" />
     <ClCompile Include="Merge Strings Alternately.cpp" />
+    <ClCompile Include="Product of Array Except Self.cpp" />
     <ClCompile Include="Reverse Vowels of a String.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

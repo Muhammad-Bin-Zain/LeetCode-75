@@ -38,5 +38,8 @@
     <ClCompile Include="can place flower.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Product of Array Except Self.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
