@@ -23,6 +23,7 @@
     <ClInclude Include="Helper.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="can place flower.cpp" />
     <ClCompile Include="greatest-common-divisor-of-strings.cpp" />
     <ClCompile Include="Kids With the Greatest Number of Candies.cpp" />
     <ClCompile Include="Merge Strings Alternately.cpp" />
