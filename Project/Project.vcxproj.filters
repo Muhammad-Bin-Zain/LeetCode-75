@@ -41,5 +41,8 @@
     <ClCompile Include="Product of Array Except Self.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Reverse Words in a String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

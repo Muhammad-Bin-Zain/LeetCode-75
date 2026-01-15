@@ -25,10 +25,13 @@
   <ItemGroup>
     <ClCompile Include="can place flower.cpp" />
     <ClCompile Include="greatest-common-divisor-of-strings.cpp" />
+    <ClCompile Include="Increasing Triplet Subsequence.cpp" />
     <ClCompile Include="Kids With the Greatest Number of Candies.cpp" />
     <ClCompile Include="Merge Strings Alternately.cpp" />
     <ClCompile Include="Product of Array Except Self.cpp" />
     <ClCompile Include="Reverse Vowels of a String.cpp" />
+    <ClCompile Include="Reverse Words in a String.cpp" />
+    <ClCompile Include="String Compression.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
