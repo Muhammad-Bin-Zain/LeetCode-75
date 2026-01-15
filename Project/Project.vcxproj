@@ -28,6 +28,7 @@
     <ClCompile Include="Increasing Triplet Subsequence.cpp" />
     <ClCompile Include="Kids With the Greatest Number of Candies.cpp" />
     <ClCompile Include="Merge Strings Alternately.cpp" />
+    <ClCompile Include="Move Zeroes.cpp" />
     <ClCompile Include="Product of Array Except Self.cpp" />
     <ClCompile Include="Reverse Vowels of a String.cpp" />
     <ClCompile Include="Reverse Words in a String.cpp" />

@@ -44,5 +44,14 @@
     <ClCompile Include="Reverse Words in a String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Increasing Triplet Subsequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String Compression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Move Zeroes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
